@@ -10,3 +10,5 @@ Collection of notebooks I made on deep learning topics. Most of the notebooks lo
 - [Dropout Proportion z-Tests](https://nbviewer.jupyter.org/github/g-eoj/deep-learning-notebooks/blob/master/dropout-proportion-z-tests.ipynb)
 - [SGD Update Visualization for Single Parameter](https://nbviewer.jupyter.org/github/g-eoj/deep-learning-notebooks/blob/master/sgd-update-visualization.ipynb)
   (interactivity not available on nbviewer)
+- [Optimizer Comparison Visualization for Single Parameter](https://nbviewer.jupyter.org/github/g-eoj/deep-learning-notebooks/blob/master/optimizer-compare-visualization.ipynb)
+  (interactivity not available on nbviewer)
